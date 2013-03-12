@@ -1,6 +1,8 @@
 SBLGNT Corpus
 
-The Greek New Testament with morphological tagging and categories.
+The Greek New Testament with morphological tagging and categories. Text is
+split by book, with one sentance (based on the presence of a period) per line.
+Supports simplified tags.
 
 Text:
   The SBLGNT: http://sblgnt.com/
