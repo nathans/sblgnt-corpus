@@ -77,7 +77,7 @@
  ἐξεκλείσθη/V-3APIS ./. 
  διὰ/P ποίου/RI-GSM νόμου/N-GSM ;/; 
  τῶν/RA-GPN ἔργων/N-GPN ;/; 
- οὐχί/X ,/, ἀλλὰ/C διὰ/P νόμου/N-GSM πίστεως/N-GSF ./. 
+ οὐχί/D ,/, ἀλλὰ/C διὰ/P νόμου/N-GSM πίστεως/N-GSF ./. 
  λογιζόμεθα/V-1PMIP γὰρ/C δικαιοῦσθαι/V-PPN πίστει/N-DSF ἄνθρωπον/N-ASM χωρὶς/P ἔργων/N-GPN νόμου/N-GSM ./. 
  ἢ/C Ἰουδαίων/A-GPM ὁ/RA-NSM θεὸς/N-NSM μόνον/A-ASN ;/; 
  οὐχὶ/X καὶ/D ἐθνῶν/N-GPN ;/; 
@@ -169,7 +169,7 @@
  ἀλλὰ/C τὴν/RA-ASF ἁμαρτίαν/N-ASF οὐκ/D ἔγνων/V-1AAIS εἰ/C μὴ/D διὰ/P νόμου/N-GSM ,/, τήν/RA-ASF τε/C γὰρ/C ἐπιθυμίαν/N-ASF οὐκ/D ᾔδειν/V-1YAIS εἰ/C μὴ/D ὁ/RA-NSM νόμος/N-NSM ἔλεγεν/V-3IAIS ·/· 
  Οὐκ/D ἐπιθυμήσεις/V-2FAIS ·/· 
  ἀφορμὴν/N-ASF δὲ/C λαβοῦσα/V-AAPNSF ἡ/RA-NSF ἁμαρτία/N-NSF διὰ/P τῆς/RA-GSF ἐντολῆς/N-GSF κατειργάσατο/V-3AMIS ἐν/P ἐμοὶ/RP-DS πᾶσαν/A-ASF ἐπιθυμίαν/N-ASF ,/, χωρὶς/P γὰρ/C νόμου/N-GSM ἁμαρτία/N-NSF νεκρά/A-NSF ./. 
- ἐγὼ/RP-NS δὲ/C ἔζων/V-1IAIS χωρὶς/P νόμου/N-GSM ποτέ/X ·/· 
+ ἐγὼ/RP-NS δὲ/C ἔζων/V-1IAIS χωρὶς/P νόμου/N-GSM ποτέ/D ·/· 
  ἐλθούσης/V-AAPGSF δὲ/C τῆς/RA-GSF ἐντολῆς/N-GSF ἡ/RA-NSF ἁμαρτία/N-NSF ἀνέζησεν/V-3AAIS ,/, ἐγὼ/RP-NS δὲ/C ἀπέθανον/V-1AAIS ,/, καὶ/C εὑρέθη/V-3APIS μοι/RP-DS ἡ/RA-NSF ἐντολὴ/N-NSF ἡ/RA-NSF εἰς/P ζωὴν/N-ASF αὕτη/RD-NSF εἰς/P θάνατον/N-ASM ·/· 
  ἡ/RA-NSF γὰρ/C ἁμαρτία/N-NSF ἀφορμὴν/N-ASF λαβοῦσα/V-AAPNSF διὰ/P τῆς/RA-GSF ἐντολῆς/N-GSF ἐξηπάτησέν/V-3AAIS με/RP-AS καὶ/C δι’/P αὐτῆς/RP-GSF ἀπέκτεινεν/V-3AAIS ./. 
  ὥστε/C ὁ/RA-NSM μὲν/C νόμος/N-NSM ἅγιος/A-NSM ,/, καὶ/C ἡ/RA-NSF ἐντολὴ/N-NSF ἁγία/A-NSF καὶ/C δικαία/A-NSF καὶ/C ἀγαθή/A-NSF ./. 
@@ -207,7 +207,7 @@
  Ἄρα/C οὖν/C ,/, ἀδελφοί/N-VPM ,/, ὀφειλέται/N-NPM ἐσμέν/V-1PAIP ,/, οὐ/D τῇ/RA-DSF σαρκὶ/N-DSF τοῦ/RA-GSN κατὰ/P σάρκα/N-ASF ζῆν/V-PAN ,/, εἰ/C γὰρ/C κατὰ/P σάρκα/N-ASF ζῆτε/V-2PAIP μέλλετε/V-2PAIP ἀποθνῄσκειν/V-PAN ,/, εἰ/C δὲ/C πνεύματι/N-DSN τὰς/RA-APF πράξεις/N-APF τοῦ/RA-GSN σώματος/N-GSN θανατοῦτε/V-2PAIP ,/, ζήσεσθε/V-2FMIP ./. 
  ὅσοι/RR-NPM γὰρ/C πνεύματι/N-DSN θεοῦ/N-GSM ἄγονται/V-3PPIP ,/, οὗτοι/RD-NPM υἱοί/N-NPM εἰσιν/V-3PAIP θεοῦ/N-GSM ./. 
  οὐ/D γὰρ/C ἐλάβετε/V-2AAIP πνεῦμα/N-ASN δουλείας/N-GSF πάλιν/D εἰς/P φόβον/N-ASM ,/, ἀλλὰ/C ἐλάβετε/V-2AAIP πνεῦμα/N-ASN υἱοθεσίας/N-GSF ἐν/P ᾧ/RR-DSN κράζομεν/V-1PAIP ·/· 
- Αββα/N-VSM ὁ/RA-VSM πατήρ/N-NSM ·/· 
+ Αββα/N-VSM ὁ/RA-VSM πατήρ/N-VSM ·/· 
  αὐτὸ/RP-NSN τὸ/RA-NSN πνεῦμα/N-NSN συμμαρτυρεῖ/V-3PAIS τῷ/RA-DSN πνεύματι/N-DSN ἡμῶν/RP-GP ὅτι/C ἐσμὲν/V-1PAIP τέκνα/N-NPN θεοῦ/N-GSM ./. 
  εἰ/C δὲ/C τέκνα/N-NPN ,/, καὶ/D κληρονόμοι/N-NPM ·/· 
  κληρονόμοι/N-NPM μὲν/C θεοῦ/N-GSM ,/, συγκληρονόμοι/A-NPM δὲ/C Χριστοῦ/N-GSM ,/, εἴπερ/C συμπάσχομεν/V-1PAIP ἵνα/C καὶ/D συνδοξασθῶμεν/V-1APSP ./. 
@@ -366,7 +366,7 @@
  καὶ/C αὕτη/RD-NSF αὐτοῖς/RP-DPM ἡ/RA-NSF παρ’/P ἐμοῦ/RP-GS διαθήκη/N-NSF ,/, ὅταν/C ἀφέλωμαι/V-1AMSS τὰς/RA-APF ἁμαρτίας/N-APF αὐτῶν/RP-GPM ./. 
  κατὰ/P μὲν/C τὸ/RA-ASN εὐαγγέλιον/N-ASN ἐχθροὶ/A-NPM δι’/P ὑμᾶς/RP-AP ,/, κατὰ/P δὲ/C τὴν/RA-ASF ἐκλογὴν/N-ASF ἀγαπητοὶ/A-NPM διὰ/P τοὺς/RA-APM πατέρας/N-APM ·/· 
  ἀμεταμέλητα/A-NPN γὰρ/C τὰ/RA-NPN χαρίσματα/N-NPN καὶ/C ἡ/RA-NSF κλῆσις/N-NSF τοῦ/RA-GSM θεοῦ/N-GSM ./. 
- ὥσπερ/C γὰρ/C ὑμεῖς/RP-NP ποτε/X ἠπειθήσατε/V-2AAIP τῷ/RA-DSM θεῷ/N-DSM ,/, νῦν/D δὲ/C ἠλεήθητε/V-2APIP τῇ/RA-DSF τούτων/RD-GPM ἀπειθείᾳ/N-DSF ,/, οὕτως/D καὶ/D οὗτοι/RD-NPM νῦν/D ἠπείθησαν/V-3AAIP τῷ/RA-DSN ὑμετέρῳ/A-DSN ἐλέει/N-DSN ἵνα/C καὶ/D αὐτοὶ/RP-NPM νῦν/D ἐλεηθῶσιν/V-3APSP ·/· 
+ ὥσπερ/C γὰρ/C ὑμεῖς/RP-NP ποτε/D ἠπειθήσατε/V-2AAIP τῷ/RA-DSM θεῷ/N-DSM ,/, νῦν/D δὲ/C ἠλεήθητε/V-2APIP τῇ/RA-DSF τούτων/RD-GPM ἀπειθείᾳ/N-DSF ,/, οὕτως/D καὶ/D οὗτοι/RD-NPM νῦν/D ἠπείθησαν/V-3AAIP τῷ/RA-DSN ὑμετέρῳ/A-DSN ἐλέει/N-DSN ἵνα/C καὶ/D αὐτοὶ/RP-NPM νῦν/D ἐλεηθῶσιν/V-3APSP ·/· 
  συνέκλεισεν/V-3AAIS γὰρ/C ὁ/RA-NSM θεὸς/N-NSM τοὺς/RA-APM πάντας/A-APM εἰς/P ἀπείθειαν/N-ASF ἵνα/C τοὺς/RA-APM πάντας/A-APM ἐλεήσῃ/V-3AASS ./. 
  Ὦ/X βάθος/N-NSN πλούτου/N-GSM καὶ/C σοφίας/N-GSF καὶ/C γνώσεως/N-GSF θεοῦ/N-GSM ·/· 
  ὡς/D ἀνεξεραύνητα/A-NPN τὰ/RA-NPN κρίματα/N-NPN αὐτοῦ/RP-GSM καὶ/C ἀνεξιχνίαστοι/A-NPF αἱ/RA-NPF ὁδοὶ/N-NPF αὐτοῦ/RP-GSM ./. 
@@ -518,4 +518,4 @@
  ἀσπάζομαι/V-1PMIS ὑμᾶς/RP-AP ἐγὼ/RP-NS Τέρτιος/N-NSM ὁ/RA-NSM γράψας/V-AAPNSM τὴν/RA-ASF ἐπιστολὴν/N-ASF ἐν/P κυρίῳ/N-DSM ./. 
  ἀσπάζεται/V-3PMIS ὑμᾶς/RP-AP Γάϊος/N-NSM ὁ/RA-NSM ξένος/A-NSM μου/RP-GS καὶ/C ὅλης/A-GSF τῆς/RA-GSF ἐκκλησίας/N-GSF ./. 
  ἀσπάζεται/V-3PMIS ὑμᾶς/RP-AP Ἔραστος/N-NSM ὁ/RA-NSM οἰκονόμος/N-NSM τῆς/RA-GSF πόλεως/N-GSF καὶ/C Κούαρτος/N-NSM ὁ/RA-NSM ἀδελφός/N-NSM ./. 
- Ἡ/RA-NSF χάρις/N-NSF τοῦ/RA-GSM κυρίου/N-GSM ἡμῶν/RP-GP Ἰησοῦ/N-GSM Χριστοῦ/N-GSM μετὰ/P πάντων/A-GPM ὑμῶν/RP-GP Ἀμήν/X ./. 
+ Ἡ/RA-NSF χάρις/N-NSF τοῦ/RA-GSM κυρίου/N-GSM ἡμῶν/RP-GP Ἰησοῦ/N-GSM Χριστοῦ/N-GSM μετὰ/P πάντων/A-GPM ὑμῶν/RP-GP Ἀμήν/I ./. 
