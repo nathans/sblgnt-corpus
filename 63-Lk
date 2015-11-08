@@ -319,8 +319,8 @@
  χάρητε/V-2APDP ἐν/P ἐκείνῃ/RD-DSF τῇ/RA-DSF ἡμέρᾳ/N-DSF καὶ/C σκιρτήσατε/V-2AADP ,/, ἰδοὺ/X γὰρ/C ὁ/RA-NSM μισθὸς/N-NSM ὑμῶν/RP-GP πολὺς/A-NSM ἐν/P τῷ/RA-DSM οὐρανῷ/N-DSM ·/· 
  κατὰ/P τὰ/RA-APN αὐτὰ/A-APN γὰρ/C ἐποίουν/V-3IAIP τοῖς/RA-DPM προφήταις/N-DPM οἱ/RA-NPM πατέρες/N-NPM αὐτῶν/RP-GPM ./. 
  πλὴν/C οὐαὶ/X ὑμῖν/RP-DP τοῖς/RA-DPM πλουσίοις/A-DPM ,/, ὅτι/C ἀπέχετε/V-2PAIP τὴν/RA-ASF παράκλησιν/N-ASF ὑμῶν/RP-GP ./. 
- οὐαὶ/X ὑμῖν/RP-DP ,/, οἱ/RA-VPM ἐμπεπλησμένοι/V-XPPVPM νῦν/D ,/, ὅτι/C πεινάσετε/V-2FAIP ./. 
- οὐαί/I ,/, οἱ/RA-VPM γελῶντες/V-PAPVPM νῦν/D ,/, ὅτι/C πενθήσετε/V-2FAIP καὶ/C κλαύσετε/V-2FAIP ./. 
+ οὐαὶ/X ὑμῖν/RP-DP ,/, οἱ/RA-NPM ἐμπεπλησμένοι/V-XPPNPM νῦν/D ,/, ὅτι/C πεινάσετε/V-2FAIP ./. 
+ οὐαί/I ,/, οἱ/RA-NPM γελῶντες/V-PAPNPM νῦν/D ,/, ὅτι/C πενθήσετε/V-2FAIP καὶ/C κλαύσετε/V-2FAIP ./. 
  Οὐαὶ/X ὅταν/C καλῶς/D ὑμᾶς/RP-AP εἴπωσιν/V-3AASP πάντες/A-NPM οἱ/RA-NPM ἄνθρωποι/N-NPM ,/, κατὰ/P τὰ/RA-APN αὐτὰ/A-APN γὰρ/C ἐποίουν/V-3IAIP τοῖς/RA-DPM ψευδοπροφήταις/N-DPM οἱ/RA-NPM πατέρες/N-NPM αὐτῶν/RP-GPM ./. 
  Ἀλλὰ/C ὑμῖν/RP-DP λέγω/V-1PAIS τοῖς/RA-DPM ἀκούουσιν/V-PAPDPM ,/, ἀγαπᾶτε/V-2PADP τοὺς/RA-APM ἐχθροὺς/A-APM ὑμῶν/RP-GP ,/, καλῶς/D ποιεῖτε/V-2PADP τοῖς/RA-DPM μισοῦσιν/V-PAPDPM ὑμᾶς/RP-AP ,/, εὐλογεῖτε/V-2PADP τοὺς/RA-APM καταρωμένους/V-PMPAPM ὑμᾶς/RP-AP ,/, προσεύχεσθε/V-2PMDP περὶ/P τῶν/RA-GPM ἐπηρεαζόντων/V-PAPGPM ὑμᾶς/RP-AP ./. 
  τῷ/RA-DSM τύπτοντί/V-PAPDSM σε/RP-AS ἐπὶ/P τὴν/RA-ASF σιαγόνα/N-ASF πάρεχε/V-2PADS καὶ/D τὴν/RA-ASF ἄλλην/A-ASF ,/, καὶ/C ἀπὸ/P τοῦ/RA-GSM αἴροντός/V-PAPGSM σου/RP-GS τὸ/RA-ASN ἱμάτιον/N-ASN καὶ/D τὸν/RA-ASM χιτῶνα/N-ASM μὴ/D κωλύσῃς/V-2AASS ./. 
@@ -540,7 +540,7 @@
  Μὴ/D κλαίετε/V-2PADP ,/, οὐ/D γὰρ/C ἀπέθανεν/V-3AAIS ἀλλὰ/C καθεύδει/V-3PAIS ./. 
  καὶ/C κατεγέλων/V-3IAIP αὐτοῦ/RP-GSM ,/, εἰδότες/V-XAPNPM ὅτι/C ἀπέθανεν/V-3AAIS ./. 
  αὐτὸς/RP-NSM δὲ/C κρατήσας/V-AAPNSM τῆς/RA-GSF χειρὸς/N-GSF αὐτῆς/RP-GSF ἐφώνησεν/V-3AAIS λέγων/V-PAPNSM ·/· 
- Ἡ/RA-VSF παῖς/N-VSF ,/, ἔγειρε/V-2PADS ./. 
+ Ἡ/RA-NSF παῖς/N-NSF ,/, ἔγειρε/V-2PADS ./. 
  καὶ/C ἐπέστρεψεν/V-3AAIS τὸ/RA-NSN πνεῦμα/N-NSN αὐτῆς/RP-GSF ,/, καὶ/C ἀνέστη/V-3AAIS παραχρῆμα/D ,/, καὶ/C διέταξεν/V-3AAIS αὐτῇ/RP-DSF δοθῆναι/V-APN φαγεῖν/V-AAN ./. 
  καὶ/C ἐξέστησαν/V-3AAIP οἱ/RA-NPM γονεῖς/N-NPM αὐτῆς/RP-GSF ·/· 
  ὁ/RA-NSM δὲ/C παρήγγειλεν/V-3AAIS αὐτοῖς/RP-DPM μηδενὶ/A-DSM εἰπεῖν/V-AAN τὸ/RA-ASN γεγονός/V-XAPASN ./. 
@@ -678,7 +678,7 @@
  πλὴν/C ἐν/P τούτῳ/RD-DSN μὴ/D χαίρετε/V-2PADP ὅτι/D τὰ/RA-NPN πνεύματα/N-NPN ὑμῖν/RP-DP ὑποτάσσεται/V-3PPIS ,/, χαίρετε/V-2PADP δὲ/C ὅτι/C τὰ/RA-NPN ὀνόματα/N-NPN ὑμῶν/RP-GP ἐγγέγραπται/V-3XPIS ἐν/P τοῖς/RA-DPM οὐρανοῖς/N-DPM ./. 
  Ἐν/P αὐτῇ/RP-DSF τῇ/RA-DSF ὥρᾳ/N-DSF ἠγαλλιάσατο/V-3AMIS τῷ/RA-DSN πνεύματι/N-DSN τῷ/RA-DSN ἁγίῳ/A-DSN καὶ/C εἶπεν/V-3AAIS ·/· 
  Ἐξομολογοῦμαί/V-1PMIS σοι/RP-DS ,/, πάτερ/N-VSM κύριε/N-VSM τοῦ/RA-GSM οὐρανοῦ/N-GSM καὶ/C τῆς/RA-GSF γῆς/N-GSF ,/, ὅτι/C ἀπέκρυψας/V-2AAIS ταῦτα/RD-APN ἀπὸ/P σοφῶν/A-GPM καὶ/C συνετῶν/A-GPM ,/, καὶ/C ἀπεκάλυψας/V-2AAIS αὐτὰ/RP-APN νηπίοις/A-DPM ·/· 
- ναί/X ,/, ὁ/RA-VSM πατήρ/N-VSM ,/, ὅτι/C οὕτως/D εὐδοκία/N-NSF ἐγένετο/V-3AMIS ἔμπροσθέν/P σου/RP-GS ./. 
+ ναί/X ,/, ὁ/RA-NSM πατήρ/N-NSM ,/, ὅτι/C οὕτως/D εὐδοκία/N-NSF ἐγένετο/V-3AMIS ἔμπροσθέν/P σου/RP-GS ./. 
  πάντα/A-NPN μοι/RP-DS παρεδόθη/V-3APIS ὑπὸ/P τοῦ/RA-GSM πατρός/N-GSM μου/RP-GS ,/, καὶ/C οὐδεὶς/A-NSM γινώσκει/V-3PAIS τίς/RI-NSM ἐστιν/V-3PAIS ὁ/RA-NSM υἱὸς/N-NSM εἰ/C μὴ/D ὁ/RA-NSM πατήρ/N-NSM ,/, καὶ/C τίς/RI-NSM ἐστιν/V-3PAIS ὁ/RA-NSM πατὴρ/N-NSM εἰ/C μὴ/D ὁ/RA-NSM υἱὸς/N-NSM καὶ/C ᾧ/RR-DSM ἐὰν/X βούληται/V-3PMSS ὁ/RA-NSM υἱὸς/N-NSM ἀποκαλύψαι/V-AAN ./. 
  Καὶ/C στραφεὶς/V-APPNSM πρὸς/P τοὺς/RA-APM μαθητὰς/N-APM κατ’/P ἰδίαν/A-ASF εἶπεν/V-3AAIS ·/· 
  Μακάριοι/A-NPM οἱ/RA-NPM ὀφθαλμοὶ/N-NPM οἱ/RA-NPM βλέποντες/V-PAPNPM ἃ/RR-APN βλέπετε/V-2PAIP ./. 
@@ -852,7 +852,7 @@
  εἰ/C δὲ/C ἐν/P ἀγρῷ/N-DSM τὸν/RA-ASM χόρτον/N-ASM ὄντα/V-PAPASM σήμερον/D καὶ/C αὔριον/D εἰς/P κλίβανον/N-ASM βαλλόμενον/V-PPPASM ὁ/RA-NSM θεὸς/N-NSM οὕτως/D ἀμφιέζει/V-3PAIS ,/, πόσῳ/RI-DSN μᾶλλον/D ὑμᾶς/RP-AP ,/, ὀλιγόπιστοι/A-VPM ./. 
  καὶ/D ὑμεῖς/RP-NP μὴ/D ζητεῖτε/V-2PADP τί/RI-ASN φάγητε/V-2AASP καὶ/C τί/RI-ASN πίητε/V-2AASP ,/, καὶ/C μὴ/D μετεωρίζεσθε/V-2PMDP ,/, ταῦτα/RD-APN γὰρ/C πάντα/A-APN τὰ/RA-NPN ἔθνη/N-NPN τοῦ/RA-GSM κόσμου/N-GSM ἐπιζητοῦσιν/V-3PAIP ,/, ὑμῶν/RP-GP δὲ/C ὁ/RA-NSM πατὴρ/N-NSM οἶδεν/V-3XAIS ὅτι/C χρῄζετε/V-2PAIP τούτων/RD-GPN ./. 
  πλὴν/C ζητεῖτε/V-2PADP τὴν/RA-ASF βασιλείαν/N-ASF αὐτοῦ/RP-GSM ,/, καὶ/C ταῦτα/RD-NPN προστεθήσεται/V-3FPIS ὑμῖν/RP-DP ./. 
- Μὴ/D φοβοῦ/V-2PMDS ,/, τὸ/RA-VSN μικρὸν/A-VSN ποίμνιον/N-VSN ,/, ὅτι/C εὐδόκησεν/V-3AAIS ὁ/RA-NSM πατὴρ/N-NSM ὑμῶν/RP-GP δοῦναι/V-AAN ὑμῖν/RP-DP τὴν/RA-ASF βασιλείαν/N-ASF ./. 
+ Μὴ/D φοβοῦ/V-2PMDS ,/, τὸ/RA-NSN μικρὸν/A-NSN ποίμνιον/N-NSN ,/, ὅτι/C εὐδόκησεν/V-3AAIS ὁ/RA-NSM πατὴρ/N-NSM ὑμῶν/RP-GP δοῦναι/V-AAN ὑμῖν/RP-DP τὴν/RA-ASF βασιλείαν/N-ASF ./. 
  πωλήσατε/V-2AADP τὰ/RA-APN ὑπάρχοντα/V-PAPAPN ὑμῶν/RP-GP καὶ/C δότε/V-2AADP ἐλεημοσύνην/N-ASF ·/· 
  ποιήσατε/V-2AADP ἑαυτοῖς/RP-DPM βαλλάντια/N-APN μὴ/D παλαιούμενα/V-PPPAPN ,/, θησαυρὸν/N-ASM ἀνέκλειπτον/A-ASM ἐν/P τοῖς/RA-DPM οὐρανοῖς/N-DPM ,/, ὅπου/D κλέπτης/N-NSM οὐκ/D ἐγγίζει/V-3PAIS οὐδὲ/C σὴς/N-NSM διαφθείρει/V-3PAIS ·/· 
  ὅπου/C γάρ/C ἐστιν/V-3PAIS ὁ/RA-NSM θησαυρὸς/N-NSM ὑμῶν/RP-GP ,/, ἐκεῖ/D καὶ/D ἡ/RA-NSF καρδία/N-NSF ὑμῶν/RP-GP ἔσται/V-3FMIS ./. 
@@ -939,7 +939,7 @@
  Πορευθέντες/V-APPNPM εἴπατε/V-2AADP τῇ/RA-DSF ἀλώπεκι/N-DSF ταύτῃ/RD-DSF ·/· 
  Ἰδοὺ/X ἐκβάλλω/V-1PAIS δαιμόνια/N-APN καὶ/C ἰάσεις/N-APF ἀποτελῶ/V-1PAIS σήμερον/D καὶ/C αὔριον/D ,/, καὶ/C τῇ/RA-DSF τρίτῃ/A-DSF τελειοῦμαι/V-1PPIS ./. 
  πλὴν/C δεῖ/V-3PAIS με/RP-AS σήμερον/D καὶ/C αὔριον/D καὶ/C τῇ/RA-DSF ἐχομένῃ/V-PMPDSF πορεύεσθαι/V-PMN ,/, ὅτι/C οὐκ/D ἐνδέχεται/V-3PMIS προφήτην/N-ASM ἀπολέσθαι/V-AMN ἔξω/P Ἰερουσαλήμ/N-GSF ./. 
- Ἰερουσαλὴμ/N-VSF Ἰερουσαλήμ/N-VSF ,/, ἡ/RA-VSF ἀποκτείνουσα/V-PAPVSF τοὺς/RA-APM προφήτας/N-APM καὶ/C λιθοβολοῦσα/V-PAPVSF τοὺς/RA-APM ἀπεσταλμένους/V-XPPAPM πρὸς/P αὐτήν/RP-ASF ποσάκις/D ἠθέλησα/V-1AAIS ἐπισυνάξαι/V-AAN τὰ/RA-APN τέκνα/N-APN σου/RP-GS ὃν/RR-ASM τρόπον/N-ASM ὄρνις/N-NSF τὴν/RA-ASF ἑαυτῆς/RP-GSF νοσσιὰν/N-ASF ὑπὸ/P τὰς/RA-APF πτέρυγας/N-APF ,/, καὶ/C οὐκ/D ἠθελήσατε/V-2AAIP ./. 
+ Ἰερουσαλὴμ/N-VSF Ἰερουσαλήμ/N-VSF ,/, ἡ/RA-NSF ἀποκτείνουσα/V-PAPNSF τοὺς/RA-APM προφήτας/N-APM καὶ/C λιθοβολοῦσα/V-PAPNSF τοὺς/RA-APM ἀπεσταλμένους/V-XPPAPM πρὸς/P αὐτήν/RP-ASF ποσάκις/D ἠθέλησα/V-1AAIS ἐπισυνάξαι/V-AAN τὰ/RA-APN τέκνα/N-APN σου/RP-GS ὃν/RR-ASM τρόπον/N-ASM ὄρνις/N-NSF τὴν/RA-ASF ἑαυτῆς/RP-GSF νοσσιὰν/N-ASF ὑπὸ/P τὰς/RA-APF πτέρυγας/N-APF ,/, καὶ/C οὐκ/D ἠθελήσατε/V-2AAIP ./. 
  ἰδοὺ/X ἀφίεται/V-3PPIS ὑμῖν/RP-DP ὁ/RA-NSM οἶκος/N-NSM ὑμῶν/RP-GP ./. 
  λέγω/V-1PAIS δὲ/C ὑμῖν/RP-DP ,/, οὐ/D μὴ/D ἴδητέ/V-2AASP με/RP-AS ἕως/C ἥξει/V-3FAIS ὅτε/C εἴπητε/V-2AASP ·/· 
  Εὐλογημένος/V-XPPNSM ὁ/RA-NSM ἐρχόμενος/V-PMPNSM ἐν/P ὀνόματι/N-DSN κυρίου/N-GSM ./. 
@@ -1175,10 +1175,10 @@
  Εἶπεν/V-3AAIS δὲ/C καὶ/D πρός/P τινας/RI-APM τοὺς/RA-APM πεποιθότας/V-XAPAPM ἐφ’/P ἑαυτοῖς/RP-DPM ὅτι/C εἰσὶν/V-3PAIP δίκαιοι/A-NPM καὶ/C ἐξουθενοῦντας/V-PAPAPM τοὺς/RA-APM λοιποὺς/A-APM τὴν/RA-ASF παραβολὴν/N-ASF ταύτην/RD-ASF ·/· 
  Ἄνθρωποι/N-NPM δύο/A-NPM ἀνέβησαν/V-3AAIP εἰς/P τὸ/RA-ASN ἱερὸν/A-ASN προσεύξασθαι/V-AMN ,/, ὁ/RA-NSM εἷς/A-NSM Φαρισαῖος/N-NSM καὶ/C ὁ/RA-NSM ἕτερος/A-NSM τελώνης/N-NSM ./. 
  ὁ/RA-NSM Φαρισαῖος/N-NSM σταθεὶς/V-APPNSM πρὸς/P ἑαυτὸν/RP-ASM ταῦτα/RD-APN προσηύχετο/V-3IMIS ·/· 
- Ὁ/RA-VSM θεός/N-VSM ,/, εὐχαριστῶ/V-1PAIS σοι/RP-DS ὅτι/C οὐκ/D εἰμὶ/V-1PAIS ὥσπερ/C οἱ/RA-NPM λοιποὶ/A-NPM τῶν/RA-GPM ἀνθρώπων/N-GPM ,/, ἅρπαγες/A-NPM ,/, ἄδικοι/A-NPM ,/, μοιχοί/N-NPM ,/, ἢ/C καὶ/D ὡς/C οὗτος/RD-NSM ὁ/RA-NSM τελώνης/N-NSM ·/· 
+ Ὁ/RA-NSM θεός/N-NSM ,/, εὐχαριστῶ/V-1PAIS σοι/RP-DS ὅτι/C οὐκ/D εἰμὶ/V-1PAIS ὥσπερ/C οἱ/RA-NPM λοιποὶ/A-NPM τῶν/RA-GPM ἀνθρώπων/N-GPM ,/, ἅρπαγες/A-NPM ,/, ἄδικοι/A-NPM ,/, μοιχοί/N-NPM ,/, ἢ/C καὶ/D ὡς/C οὗτος/RD-NSM ὁ/RA-NSM τελώνης/N-NSM ·/· 
  νηστεύω/V-1PAIS δὶς/D τοῦ/RA-GSN σαββάτου/N-GSN ,/, ἀποδεκατῶ/V-1PAIS πάντα/A-APN ὅσα/RR-APN κτῶμαι/V-1PMIS ./. 
  ὁ/RA-NSM δὲ/C τελώνης/N-NSM μακρόθεν/D ἑστὼς/V-XAPNSM οὐκ/D ἤθελεν/V-3IAIS οὐδὲ/D τοὺς/RA-APM ὀφθαλμοὺς/N-APM ἐπᾶραι/V-AAN εἰς/P τὸν/RA-ASM οὐρανόν/N-ASM ,/, ἀλλ’/C ἔτυπτε/V-3IAIS τὸ/RA-ASN στῆθος/N-ASN αὐτοῦ/RP-GSM λέγων/V-PAPNSM ·/· 
- Ὁ/RA-VSM θεός/N-VSM ,/, ἱλάσθητί/V-2APDS μοι/RP-DS τῷ/RA-DSM ἁμαρτωλῷ/A-DSM ./. 
+ Ὁ/RA-NSM θεός/N-NSM ,/, ἱλάσθητί/V-2APDS μοι/RP-DS τῷ/RA-DSM ἁμαρτωλῷ/A-DSM ./. 
  λέγω/V-1PAIS ὑμῖν/RP-DP ,/, κατέβη/V-3AAIS οὗτος/RD-NSM δεδικαιωμένος/V-XPPNSM εἰς/P τὸν/RA-ASM οἶκον/N-ASM αὐτοῦ/RP-GSM παρ’/P ἐκεῖνον/RD-ASM ·/· 
  ὅτι/C πᾶς/A-NSM ὁ/RA-NSM ὑψῶν/V-PAPNSM ἑαυτὸν/RP-ASM ταπεινωθήσεται/V-3FPIS ,/, ὁ/RA-NSM δὲ/C ταπεινῶν/V-PAPNSM ἑαυτὸν/RP-ASM ὑψωθήσεται/V-3FPIS ./. 
  Προσέφερον/V-3IAIP δὲ/C αὐτῷ/RP-DSM καὶ/D τὰ/RA-APN βρέφη/N-APN ἵνα/C αὐτῶν/RP-GPN ἅπτηται/V-3PMSS ·/· 
